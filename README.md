@@ -1,4 +1,4 @@
-# CMLS_HW3_Group16_Additive_Synthesis
+# Additive Synthesis Live Instrument 
 
 In this project a digital multi-instrument has been implemented, using SuperCollider and Processing platforms.
 The starting point in the mechanism of the instrument was the additive synthesis, that has been exploited in several ways in order to obtain a significant variability of sounds with the same instrument. 
